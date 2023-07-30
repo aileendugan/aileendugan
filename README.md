@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m passionate about AI applications in the medical field, focusing on trnasforming X-ray, MRI, and other imaging data in Python and C++.
+
+🔭 Skilled in frontend development and experienced with languages such as Python, C++, C, MATLAB, R, SQL, Java, Javascript, and shell scripting for diverse data handling and integration needs
+
+👯 I’m seeking opportunities to contribute and collaborate in developing advanced deep learning models for medical imaging analysis.
+
+💬 Ask me about my contributions to Notre Dame's Explainability and Human Sailency AI research!
+
+![Aileens's github stats](https://github-readme-stats.vercel.app/api?username=aileendugan&theme=tokyonight&layout=compact&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aileendugan&theme=tokyonight&layout=compact&count_private=true)](https://github.com/Snooder/github-readme-stats)
